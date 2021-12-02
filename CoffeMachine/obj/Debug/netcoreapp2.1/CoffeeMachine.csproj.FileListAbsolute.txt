@@ -1,0 +1,12 @@
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase1.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\CoffeeMachine.deps.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\CoffeeMachine.runtimeconfig.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\CoffeeMachine.runtimeconfig.dev.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\CoffeeMachine.dll
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\CoffeeMachine.pdb
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.csprojAssemblyReference.cache
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.AssemblyInfo.cs
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.dll
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.pdb
