@@ -10,3 +10,12 @@ C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netco
 C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.AssemblyInfo.cs
 C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.dll
 C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp2.1\CoffeeMachine.pdb
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase10.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase2.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase3.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase4.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase5.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase6.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase7.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase8.json
+C:\Users\akansha.aggarwal\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp2.1\TestCases\TestCase9.json

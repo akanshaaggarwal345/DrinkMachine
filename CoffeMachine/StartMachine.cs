@@ -15,7 +15,7 @@ namespace CoffeMachine
         
         static void Main(string[] args)
         {
-            string[] testCases = Directory.GetFiles(@"TestCases");
+            var testCases = Directory.GetFiles(@"TestCases");
 
             foreach(var testCase in testCases)
             {
@@ -42,9 +42,9 @@ namespace CoffeMachine
 
                 Console.WriteLine($"Finished Executing TestCase - {testCase}\n");
             }
-            
 
-            
+
+            Console.ReadKey();
 
             
         }
